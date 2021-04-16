@@ -1,0 +1,1 @@
+This is Lord-Watermelon's first git project!
